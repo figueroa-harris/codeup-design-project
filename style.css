@@ -1,5 +1,11 @@
 /*font-family: 'Anton', sans-serif;*/
 /*font-family: 'Abel', sans-serif;*/
+@media (max-width: 991px) {
+    .hide-brand-name {
+        display: none;
+    }
+}
+
 body {
     background-color: #f0f0f0;
     margin: 0;
@@ -30,7 +36,6 @@ body {
 
 .company-job {
     font-family: 'Anton', sans-serif;
-    font-size: 4.5em;
     margin-top: 50px;
 }
 
