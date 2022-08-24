@@ -9,6 +9,20 @@ body {
     padding: 0;
 }
 
+.navbar-nav {
+    padding-left: 25px;
+}
+
+#brand-name {
+    font-family: 'Abel', sans-serif;
+    padding-left: 20px;
+}
+
+.nav-link {
+    font-family: 'Abel', sans-serif;
+    padding: 0;
+}
+
 .container-fluid {
     background-color: #f0f0f0;
     padding: 0;
