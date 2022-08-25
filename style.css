@@ -95,11 +95,13 @@ body {
 #selected-work, #the-last{
     margin-top: 100px;
     font-family: 'Abel', sans-serif;
+    font-size: small;
 }
 
 #last-tweet {
     font-family: 'Abel', sans-serif;
     margin-top: 50px;
+    font-size: small;
 }
 
 .selected-work-images {
@@ -117,7 +119,9 @@ body {
     margin: 0;
     background-color: #e6563b;
     font-family: 'Anton', sans-serif;
-
+    text-align: center;
+    line-height: 20px;
+    font-size: small;
 }
 
 .small-yellow-circle {
@@ -126,7 +130,9 @@ body {
     margin: 0;
     background-color: #eb9d3a;
     font-family: 'Anton', sans-serif;
-
+    text-align: center;
+    line-height: 20px;
+    font-size: small;
 }
 
 .small-green-circle {
@@ -135,7 +141,9 @@ body {
     margin: 0;
     background-color: #7cb06c;
     font-family: 'Anton', sans-serif;
-
+    text-align: center;
+    line-height: 20px;
+    font-size: small;
 }
 
 .small-blue-circle {
@@ -144,6 +152,9 @@ body {
     margin: 0;
     background-color: #00aba9;
     font-family: 'Anton', sans-serif;
+    text-align: center;
+    line-height: 20px;
+    font-size: small;
 }
 
 .small-circles{
@@ -158,4 +169,18 @@ body {
 .image-size {
     height: 75px;
     width: 75px;
+}
+
+.man-image {
+    height: 194px;
+    width: 284px;
+}
+
+.feat-proj {
+    font-family: 'Abel', sans-serif;
+    font-size: small;
+}
+
+.tweet-mess {
+    font-size: small;
 }
